@@ -9,6 +9,3 @@ boton.addEventListener("click",() => {
     document.getElementById("Color").innerHTML = color[aleatorio];
     document.body.style.backgroundColor = color[aleatorio];
 });
-// function Titulo() {
-   
-// }
